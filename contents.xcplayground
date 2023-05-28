@@ -8,5 +8,6 @@
         <page name='Foundation and Combine'/>
         <page name='Scheduler'/>
         <page name='Operator - map &amp; filter'/>
+        <page name='Operator - combineLatest'/>
     </pages>
 </playground>
