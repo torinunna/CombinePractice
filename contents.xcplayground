@@ -7,5 +7,6 @@
         <page name='Published'/>
         <page name='Foundation and Combine'/>
         <page name='Scheduler'/>
+        <page name='Operator - map &amp; filter'/>
     </pages>
 </playground>
